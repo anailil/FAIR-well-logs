@@ -1,0 +1,11 @@
+name: fair-well-logs-test
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - pandas
+  - ipywidgets
+  - matplotlib
+  - openpyxl
+  - pip:
+      - lasio 
